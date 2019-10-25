@@ -1,0 +1,14 @@
+name: quick-plots
+channels:
+- conda-forge
+dependencies:
+- cartopy
+- cmocean
+- ipykernel
+- ipywidgets
+- matplotlib
+- numpy
+- pandas
+- scipy
+- seaborn
+- xarray
