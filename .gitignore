@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+data/natural-earth-1_medium.png

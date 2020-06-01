@@ -1,0 +1,10 @@
+{
+    "__comment__": "JSON file specifying the image to use for a given type/name and resolution. Read in by cartopy.mpl.geoaxes.read_user_background_images.",
+    "natural-earth-1": {
+        "__comment__": "Natural Earth I with Shaded Relief, Water, and Drainages",
+        "__projection__": "PlateCarree",
+        "__source__": "http://www.naturalearthdata.com/downloads/10m-raster-data/10m-natural-earth-1/ and http://www.naturalearthdata.com/downloads/50m-raster-data/50m-natural-earth-1/",
+        "medium": "natural-earth-1_medium.png",
+        "small": "natural-earth-1_small.png"
+    }
+}
